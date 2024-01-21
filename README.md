@@ -43,7 +43,4 @@ EtherAI is an advanced Discord bot specifically designed for the Ethereum Classi
 ## Acknowledgments
 - This bot utilizes OpenAI's GPT model for generating responses.
 - Thanks to the Ethereum Classic community for inspiration.
-
 ---
-
-> Note: This is a sample README for the EtherAI Discord bot project. Adjust the content as necessary to match your project's requirements and context.
